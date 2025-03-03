@@ -7,12 +7,11 @@
 💡 **QA Automation & Manual Testing** – Ensuring software reliability and performance  
 💡 **Web Scraping & Data Extraction** – Automating data collection with Python & Selenium  
 💡 **Python Development** – Writing efficient scripts for automation and testing  
-💡 **Front-end Development** – React, JavaScript, UI/UX principles  
-💡 **Back-end Development** – Node.js, PostgreSQL, API integration 
+💡 **Front-end Development** – React
+💡 **Back-end Development** – PostgreSQL, API integration 
 
 ## 🔍 What I'm Working On  
 🌱 **Developing advanced web automation scripts**  
-🌱 **Expanding database-driven applications**  
 🌱 **Optimizing software testing processes with automation**  
 
 ## 🤝 Let's Collaborate  
